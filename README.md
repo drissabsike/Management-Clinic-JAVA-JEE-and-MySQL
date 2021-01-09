@@ -24,6 +24,6 @@ Click on Browse workspace (now is Workspace...) then select your project and in 
 
 # Login and Home Pages
 
-![](1.PNG)
+![](1.png)
 ***************************
-![](2.PNG)
+![](2.png)
