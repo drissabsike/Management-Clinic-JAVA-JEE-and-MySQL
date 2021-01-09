@@ -21,3 +21,9 @@ Then select Maven Build
 
 Then click new button to create a configuration of the selected type. 
 Click on Browse workspace (now is Workspace...) then select your project and in goals specify eclipse:eclipse
+
+# Login and Home Pages
+
+![](1.PNG)
+***************************
+![](2.PNG)
