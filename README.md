@@ -1,4 +1,5 @@
-# Gestion-Clinique
+#Management-Clinic JAVA-JEE-and-MySQL
+************************************
 Clinic management with JAVA/JEE and MySQL
 First you need add all tables in you DataBase (MySQL) 
 	Tables:
